@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-05T12:23:19Z" name="Default suite" finished-at="2018-12-05T12:24:23Z" duration-ms="63928">
+    <groups>
+    </groups>
+    <test started-at="2018-12-05T12:23:19Z" name="Default test" finished-at="2018-12-05T12:24:23Z" duration-ms="63928">
+      <class name="com.webtest.demo.SearchTest">
+        <test-method is-config="true" signature="doBeforeSuite()[pri:0, instance:com.webtest.demo.SearchTest@bae7dc0]" started-at="2018-12-05T12:23:12Z" name="doBeforeSuite" finished-at="2018-12-05T12:23:19Z" duration-ms="7000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doBeforeSuite -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.webtest.demo.SearchTest@bae7dc0]" started-at="2018-12-05T12:23:19Z" name="setup" finished-at="2018-12-05T12:23:28Z" duration-ms="8821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="search1()[pri:0, instance:com.webtest.demo.SearchTest@bae7dc0]" started-at="2018-12-05T12:23:28Z" name="search1" finished-at="2018-12-05T12:23:44Z" duration-ms="16203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search1 -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.webtest.demo.SearchTest@bae7dc0]" started-at="2018-12-05T12:23:44Z" name="setup" finished-at="2018-12-05T12:23:48Z" duration-ms="3296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="search2()[pri:0, instance:com.webtest.demo.SearchTest@bae7dc0]" started-at="2018-12-05T12:23:48Z" name="search2" finished-at="2018-12-05T12:24:04Z" duration-ms="16207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search2 -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.webtest.demo.SearchTest@bae7dc0]" started-at="2018-12-05T12:24:04Z" name="setup" finished-at="2018-12-05T12:24:07Z" duration-ms="3311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="search3()[pri:0, instance:com.webtest.demo.SearchTest@bae7dc0]" started-at="2018-12-05T12:24:07Z" name="search3" finished-at="2018-12-05T12:24:23Z" duration-ms="16061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search3 -->
+        <test-method is-config="true" signature="doAfterMethod()[pri:0, instance:com.webtest.demo.SearchTest@bae7dc0]" started-at="2018-12-05T12:24:23Z" name="doAfterMethod" finished-at="2018-12-05T12:24:24Z" duration-ms="714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfterMethod -->
+      </class> <!-- com.webtest.demo.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
